@@ -1,7 +1,7 @@
-# Tugas 1 Pertemuan 2
+# Pemrograman Mobile - H1D023059
 
-Nama    : Tsaqif Hasbi Aghna Syarief
-NIM     : H1D023059
+Nama    : Tsaqif Hasbi Aghna Syarief <br>
+NIM     : H1D023059 <br>
 Shift   : A
 
 ## Tugas 1 Pertemuan 2
