@@ -8,4 +8,6 @@ Shift   : A
 ![](Pertemuan%202/Pertemuan%202.png)
 
 ## Tugas 2 Pertemuan 3
-![](Pertemuan%203/Pertemuan%203%20Vidio.mkv)
+https://github.com/user-attachments/assets/f17396bb-a244-4c7c-aa9a-ca74df32c207
+
+
